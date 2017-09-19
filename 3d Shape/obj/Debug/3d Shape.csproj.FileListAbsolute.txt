@@ -1,0 +1,18 @@
+c:\users\dell\documents\visual studio 2013\Projects\3d Shape\3d Shape\bin\Debug\3d Shape.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\3d Shape\3d Shape\bin\Debug\3d Shape.exe
+c:\users\dell\documents\visual studio 2013\Projects\3d Shape\3d Shape\bin\Debug\3d Shape.pdb
+c:\users\dell\documents\visual studio 2013\Projects\3d Shape\3d Shape\obj\Debug\3d Shape.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\3d Shape\3d Shape\obj\Debug\_3d_Shape.Form1.resources
+c:\users\dell\documents\visual studio 2013\Projects\3d Shape\3d Shape\obj\Debug\_3d_Shape.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\3d Shape\3d Shape\obj\Debug\3d Shape.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\3d Shape\3d Shape\obj\Debug\3d Shape.exe
+c:\users\dell\documents\visual studio 2013\Projects\3d Shape\3d Shape\obj\Debug\3d Shape.pdb
+C:\Users\Dell\Desktop\3d Shape\3d Shape\bin\Debug\3d Shape.exe.config
+C:\Users\Dell\Desktop\3d Shape\3d Shape\obj\Debug\3d Shape.exe
+C:\Users\Dell\Desktop\3d Shape\3d Shape\obj\Debug\3d Shape.pdb
+C:\Users\Dell\Desktop\3d Shape\3d Shape\bin\Debug\3d Shape.exe
+C:\Users\Dell\Desktop\3d Shape\3d Shape\bin\Debug\3d Shape.pdb
+C:\Users\Dell\Desktop\3d Shape\3d Shape\obj\Debug\3d Shape.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\3d Shape\3d Shape\obj\Debug\_3d_Shape.Form1.resources
+C:\Users\Dell\Desktop\3d Shape\3d Shape\obj\Debug\_3d_Shape.Properties.Resources.resources
+C:\Users\Dell\Desktop\3d Shape\3d Shape\obj\Debug\3d Shape.csproj.GenerateResource.Cache
